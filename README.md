@@ -1,4 +1,4 @@
-# SCREEN-TIME-Forecast
+# User_ScreenTime_Forecasting
 ![screen_time](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSaXTZfvolajQj6ScuoxzFVcU4BJmsXYihJQ&usqp=CAU)
 
 ## The Idea
